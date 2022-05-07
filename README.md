@@ -1,4 +1,4 @@
-### Lucas Nogueira 👨‍💻
+<h1 align="center">Lucas Nogueira 👨‍💻</h1> 
 <div style="display: inline_block"><br>
 💻 - Técnico em Desenvolvimento de Sistemas <br>
 📚 - Estudante de Sistemas para Internet na Fatec Runes Lara <br>
