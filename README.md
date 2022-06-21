@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Nogueira 👨‍💻</h1> 
 
 💻 - Técnico em Desenvolvimento de Sistemas | Etec Dra. Ruth Cardoso <br>
-📚 - Estudante de Sistemas para Internet | Fatec Runes Lara <br>
+📚 - Estudante de Sistemas para Internet | Fatec Rubens Lara <br>
 
 ---
 
