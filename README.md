@@ -5,15 +5,11 @@
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&theme=vue-dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lucasnogue&show_icons=true&theme=vue-dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogue&hide=css,java,html&theme=vue-dark">
 </p>
 <a href="https://github.com/LucasNogue">
-<P align="center">
-  <a href="https://github.com/LucasNogue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnogue&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogue&layout=compact&langs_count=7&theme=vue-dark"/>
-</P>
+
   
 ### 🖥 Tecnologias que estou estudando
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
