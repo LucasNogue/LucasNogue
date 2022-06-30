@@ -5,8 +5,9 @@
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lucasnogue&show_icons=true&theme=vue-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogue&hide=css,java,html&theme=vue-dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lucasnogue&show_icons=true&theme=vue-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogue&layout=compact&langs_count=7&theme=vue-dark"/>
+  
 </p>
 <a href="https://github.com/LucasNogue">
 
