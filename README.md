@@ -3,8 +3,8 @@
 💻 - Técnico em Desenvolvimento de Sistemas | Etec Dra. Ruth Cardoso <br>
 📚 - Estudante de Sistemas para Internet | Fatec Rubens Lara <br>
 
-![Lucas Nogueira GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasNogue&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&langs_count=3)
+![Lucas Nogueira GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasNogue&count_private=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&langs_count=3&theme=vue-dark)
 
 
 <a href="https://github.com/LucasNogue">
