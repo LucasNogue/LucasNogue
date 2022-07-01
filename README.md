@@ -4,11 +4,13 @@
 📚 - Estudante de Sistemas para Internet | Fatec Rubens Lara <br>
 
 ---
-<div align="center" style="display: inline_block">
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnogue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogue&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
 <a href="https://github.com/LucasNogue">
 
   
