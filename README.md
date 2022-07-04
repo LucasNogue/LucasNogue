@@ -5,7 +5,7 @@
 
 
  
-<img src="https://github-readme-stats.vercel.app/api?username=LucasNogue&show_icons=true&theme=vue-dark&include_all_commits=true" width="414"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&layout=compact&langs_count=7&theme=vue-dark" width="413"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=LucasNogue&show_icons=true&theme=vue-dark&include_all_commits=true" width="410"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&layout=compact&langs_count=7&theme=vue-dark" width="409"/> 
 
 <a href="https://github.com/LucasNogue">
 
