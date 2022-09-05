@@ -3,8 +3,7 @@
 💻 - Técnico em Desenvolvimento de Sistemas | Etec Dra. Ruth Cardoso <br>
 📚 - Estudante de Sistemas para Internet | Fatec Rubens Lara <br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucasNogue&show_icons=true&theme=nord"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&count=4&exclude_repo=simf-crud-mvc-node-express&theme=nord" width="285"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=lucasnogue&count_private=true&show_icons=true&theme=nord"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&count=4&exclude_repo=simf-crud-mvc-node-express&theme=nord" width="285"/> 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNogue&layout=compact&langs_count=4&theme=darcula" width="407"/>-->
   
 ### 🖥 Tecnologias que estou estudando
